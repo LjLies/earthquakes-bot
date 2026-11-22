@@ -6,7 +6,7 @@ keywords.py - Earthquake and emergency related keyword database
 While the license is GPLv3 as usual, the actual data are believed to be in the public domain,
 as they do not constitute a work but simply a collection of terms.
 
-This file is part of the "Brainstorm" distribution (https://github.com/luccoj/earthquakes-bot).
+This file is part of the "Brainstorm" distribution (https://github.com/LjLies/earthquakes-bot).
 Copyright (c) 2016-2023 Lorenzo J. Lucchini (ljlbox@tiscali.it)
 
 This program is free software: you can redistribute it and/or modify  

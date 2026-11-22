@@ -3,7 +3,7 @@
 """
 alerts.py - IRC bot geographical alerts module
 
-This file is part of the "Brainstorm" distribution (https://github.com/luccoj/earthquakes-bot).
+This file is part of the "Brainstorm" distribution (https://github.com/LjLies/earthquakes-bot).
 Copyright (c) 2016-2023 Lorenzo J. Lucchini (ljlbox@tiscali.it)
 
 This program is free software: you can redistribute it and/or modify  
