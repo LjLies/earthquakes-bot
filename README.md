@@ -20,7 +20,7 @@ I do not plan to work on this bot anymore due to its distinguishing features bei
 
 # Source code
 
-The source code of the earthquake warning/reporting part of my bot is found at https://github.com/LuccoJ/earthquakes-bot but it won't work without an IRC bot core, and it will probably need tweaking for missing libraries and generally for using long-deprecated stuff (Python 2.7 and Poetry for Python 2.7, and many Python 2.7 dependencies from PyPi). It will also need a configuration file with earthquake report sources (RSS, Atom, QuakeML, FDSN, CSV, etc, earthquake feeds).
+The source code of the earthquake warning/reporting part of my bot is found at https://github.com/LjLies/earthquakes-bot but it won't work without an IRC bot core, and it will probably need tweaking for missing libraries and generally for using long-deprecated stuff (Python 2.7 and Poetry for Python 2.7, and many Python 2.7 dependencies from PyPi). It will also need a configuration file with earthquake report sources (RSS, Atom, QuakeML, FDSN, CSV, etc, earthquake feeds).
 
 # Important note about Twitter
 
